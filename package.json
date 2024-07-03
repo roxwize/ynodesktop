@@ -39,6 +39,22 @@
       "publisher": "CN=6D79C59E-C608-4AA1-A818-EEFB5F3B76DF",
       "publisherDisplayName": "jvbf",
       "applicationId": "jvbf.ynodesktop"
+    },
+    "mac": {
+      "icon": "logo.icns"
+    },
+    "linux": {
+      "target": "AppImage",
+      "category": "Game",
+      "desktop": {
+        "Name": "YNOdesktop",
+        "GenericName": "Desktop client for Yume Nikki Online",
+        "Comment": "Play Yume Nikki Online",
+        "Keywords": "yume;nikki;2kki;"
+      }
+    },
+    "appImage": {
+      "license": "LICENSE"
     }
   },
   "dependencies": {
